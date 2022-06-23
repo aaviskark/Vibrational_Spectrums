@@ -1,0 +1,186 @@
+-----------------------------------------------------------
+----------------------- PROPERTIES ------------------------
+-----------------------------------------------------------
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            1
+        Type:                DOUBLE
+        Value:               -93.0025347379288263
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            2
+        Type:                DOUBLE
+        Value:               -93.0749205795888770
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            3
+        Type:                DOUBLE
+        Value:               -93.1549376608944328
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            4
+        Type:                DOUBLE
+        Value:               -93.2319655700331680
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            5
+        Type:                DOUBLE
+        Value:               -93.2838521569095036
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            6
+        Type:                DOUBLE
+        Value:               -93.3144103772181381
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            7
+        Type:                DOUBLE
+        Value:               -93.3392161125467226
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            8
+        Type:                DOUBLE
+        Value:               -93.3461446589410855
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            9
+        Type:                DOUBLE
+        Value:               -93.3470861565462116
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            10
+        Type:                DOUBLE
+        Value:               -93.3472163143200788
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            11
+        Type:                DOUBLE
+        Value:               -93.3472248759241268
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            12
+        Type:                DOUBLE
+        Value:               -93.3472332447284572
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            13
+        Type:                DOUBLE
+        Value:               -93.3472405206042595
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            14
+        Type:                DOUBLE
+        Value:               -93.3472413102280427
+                    PROPERTY:
+        Name:                SCF_Energy                      
+        Comment:             The SCF Energy                                                                                                              
+        Geometry:            15
+        Type:                DOUBLE
+        Value:               -93.3472413502868363
+-----------------------------------------------------------
+----------------------- GEOMETRIES ------------------------
+-----------------------------------------------------------
+                    GEOMETRY:    1
+        Number of atoms:    3
+        Coordinates:
+            N     -3.262140000000    1.105170000000   -1.444980000000
+            C     -1.564890000000    1.196890000000   -0.953320000000
+            H      0.115910000000    1.213600000000   -0.437510000000
+                    GEOMETRY:    2
+        Number of atoms:    3
+        Coordinates:
+            N     -3.148969534600    1.109775265622   -1.411611593154
+            C     -1.591887703903    1.194656893730   -0.960850504209
+            H      0.029737238503    1.211227840647   -0.463347902637
+                    GEOMETRY:    3
+        Number of atoms:    3
+        Coordinates:
+            N     -3.036699955679    1.114524057660   -1.378579180229
+            C     -1.624032585815    1.192102752538   -0.969852649014
+            H     -0.050387458506    1.209033189802   -0.487378170757
+                    GEOMETRY:    4
+        Number of atoms:    3
+        Coordinates:
+            N     -2.924062311782    1.119392986732   -1.345480604671
+            C     -1.654573441580    1.189438063874   -0.978308914254
+            H     -0.132484246638    1.206828949393   -0.512020481075
+                    GEOMETRY:    5
+        Number of atoms:    3
+        Coordinates:
+            N     -2.810977713026    1.124318365083   -1.312268222504
+            C     -1.672263883788    1.186920919236   -0.982821556194
+            H     -0.227878403186    1.204420715682   -0.540720221302
+                    GEOMETRY:    6
+        Number of atoms:    3
+        Coordinates:
+            N     -2.740567780351    1.127207181446   -1.291523791159
+            C     -1.633192524878    1.186343600688   -0.970443262060
+            H     -0.337359694771    1.202109217866   -0.573842946781
+                    GEOMETRY:    7
+        Number of atoms:    3
+        Coordinates:
+            N     -2.691804078302    1.129178354972   -1.277145729132
+            C     -1.581700290863    1.186226948723   -0.954384885134
+            H     -0.437615630835    1.200254696305   -0.604279385734
+                    GEOMETRY:    8
+        Number of atoms:    3
+        Coordinates:
+            N     -2.641345201559    1.131694995583   -1.262446639341
+            C     -1.531130378558    1.185025698848   -0.938197023806
+            H     -0.538644419883    1.198939305569   -0.635166336853
+                    GEOMETRY:    9
+        Number of atoms:    3
+        Coordinates:
+            N     -2.658410572521    1.131753513902   -1.267760304267
+            C     -1.547416822602    1.183619200067   -0.942727122672
+            H     -0.505292604877    1.200287286031   -0.625322573062
+                    GEOMETRY:    10
+        Number of atoms:    3
+        Coordinates:
+            N     -2.654360317695    1.132551610134   -1.266801213015
+            C     -1.543694256273    1.182335099644   -0.941086820814
+            H     -0.513065426032    1.200773290222   -0.627921966171
+                    GEOMETRY:    11
+        Number of atoms:    3
+        Coordinates:
+            N     -2.653771410119    1.133357116054   -1.266915046220
+            C     -1.543267955253    1.180767195636   -0.940371090392
+            H     -0.514080634628    1.201535688311   -0.628523863389
+                    GEOMETRY:    12
+        Number of atoms:    3
+        Coordinates:
+            N     -2.653488768755    1.134664278777   -1.267304706228
+            C     -1.543239460418    1.178169229248   -0.939404827620
+            H     -0.514391770827    1.202826491975   -0.629100466152
+                    GEOMETRY:    13
+        Number of atoms:    3
+        Coordinates:
+            N     -2.653395643227    1.136783451629   -1.268041586101
+            C     -1.543567452863    1.173926761590   -0.937963839262
+            H     -0.514156903909    1.204949786780   -0.629804574637
+                    GEOMETRY:    14
+        Number of atoms:    3
+        Coordinates:
+            N     -2.653545344557    1.137386435495   -1.268293705552
+            C     -1.543820597778    1.172703523883   -0.937624036560
+            H     -0.513754057665    1.205570040622   -0.629892257888
+                    GEOMETRY:    15
+        Number of atoms:    3
+        Coordinates:
+            N     -2.653627143107    1.137409978952   -1.268312501733
+            C     -1.543891306410    1.172648967349   -0.937656381924
+            H     -0.513601550482    1.205601053698   -0.629841116342
